@@ -9,4 +9,4 @@ bpm-file.c(52): warning C4996: 'fopen': This function or variable may be unsafe.
   main.c
   Generating Code...
   UI.cpp
-  App_Grain.vcxproj -> C:\Projects\Cripto-Grain\Cripto-Grain\Debug\App_Grain.exe
+  App_Grain.vcxproj -> C:\Projects\Cripto-Grain\Criptografia-Grain128a\Debug\App_Grain.exe
